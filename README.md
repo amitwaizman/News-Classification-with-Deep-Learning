@@ -73,10 +73,12 @@ We used **Bag of Words (BoW)** representation to convert text into numerical vec
 ---
 
 ## 🚀 Technologies Used
-- Python  
-- NLTK  
-- NumPy, Pandas  
-- Scikit-learn  
-- TensorFlow / Keras  
+
+- **Python** – main programming language  
+- **PyTorch** – deep learning models  
+- **scikit-learn** – data splitting & metrics  
+- **pandas & numpy** – data handling & numerical computing  
+- **NLTK & spaCy** – natural language processing  
+- **Gensim (Word2Vec)** – word embeddings
 
 
